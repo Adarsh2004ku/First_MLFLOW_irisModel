@@ -1,0 +1,14 @@
+artifact_uri: /Users/adarshkumar/Developer/mlops/MLflow/Check LocalHost Connection/0/6896baeecd4248c4beb493a5704ac432/artifacts
+end_time: 1764526677347
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6896baeecd4248c4beb493a5704ac432
+run_name: clean-ray-926
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764526677332
+status: 3
+tags: []
+user_id: adarshkumar

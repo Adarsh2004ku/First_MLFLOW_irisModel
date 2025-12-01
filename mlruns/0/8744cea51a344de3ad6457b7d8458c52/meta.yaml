@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/8744cea51a344de3ad6457b7d8458c52/artifacts
+end_time: 1764527235567
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8744cea51a344de3ad6457b7d8458c52
+run_name: unleashed-owl-974
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764527235550
+status: 3
+tags: []
+user_id: adarshkumar

@@ -1,0 +1,14 @@
+artifact_uri: /Users/adarshkumar/Developer/mlops/MLflow/Check LocalHost Connection/0/2bcf9175e3774f2182a170bf57acb219/artifacts
+end_time: 1764527006499
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2bcf9175e3774f2182a170bf57acb219
+run_name: casual-kite-600
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764527006479
+status: 3
+tags: []
+user_id: adarshkumar

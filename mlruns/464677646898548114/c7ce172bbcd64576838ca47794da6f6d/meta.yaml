@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/464677646898548114/c7ce172bbcd64576838ca47794da6f6d/artifacts
+end_time: 1764528745550
+entry_point_name: ''
+experiment_id: '464677646898548114'
+lifecycle_stage: active
+run_id: c7ce172bbcd64576838ca47794da6f6d
+run_name: polite-newt-558
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764528745528
+status: 4
+tags: []
+user_id: adarshkumar

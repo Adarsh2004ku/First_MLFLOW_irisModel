@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/464677646898548114/b53481ee8422411eb829f30cc7277b5c/artifacts
+end_time: 1764570241243
+entry_point_name: ''
+experiment_id: '464677646898548114'
+lifecycle_stage: active
+run_id: b53481ee8422411eb829f30cc7277b5c
+run_name: beautiful-kit-48
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764570238395
+status: 3
+tags: []
+user_id: adarshkumar

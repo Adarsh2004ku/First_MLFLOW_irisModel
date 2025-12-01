@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/464677646898548114/c2d12db253114ee5b3b97aa1223b5d4a/artifacts
+end_time: 1764529279337
+entry_point_name: ''
+experiment_id: '464677646898548114'
+lifecycle_stage: active
+run_id: c2d12db253114ee5b3b97aa1223b5d4a
+run_name: casual-horse-919
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764529279316
+status: 3
+tags: []
+user_id: adarshkumar

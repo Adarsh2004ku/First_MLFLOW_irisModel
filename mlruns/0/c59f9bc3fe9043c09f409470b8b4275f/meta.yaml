@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c59f9bc3fe9043c09f409470b8b4275f/artifacts
+end_time: 1764527237503
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c59f9bc3fe9043c09f409470b8b4275f
+run_name: languid-quail-425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764527237490
+status: 3
+tags: []
+user_id: adarshkumar

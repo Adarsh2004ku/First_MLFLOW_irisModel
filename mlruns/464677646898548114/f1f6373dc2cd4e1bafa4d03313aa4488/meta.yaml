@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/464677646898548114/f1f6373dc2cd4e1bafa4d03313aa4488/artifacts
+end_time: 1764530127106
+entry_point_name: ''
+experiment_id: '464677646898548114'
+lifecycle_stage: active
+run_id: f1f6373dc2cd4e1bafa4d03313aa4488
+run_name: nebulous-shrew-670
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764530125189
+status: 3
+tags: []
+user_id: adarshkumar

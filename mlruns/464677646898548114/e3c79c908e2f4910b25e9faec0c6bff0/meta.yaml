@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/464677646898548114/e3c79c908e2f4910b25e9faec0c6bff0/artifacts
+end_time: 1764528732829
+entry_point_name: ''
+experiment_id: '464677646898548114'
+lifecycle_stage: active
+run_id: e3c79c908e2f4910b25e9faec0c6bff0
+run_name: invincible-wren-632
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764528732816
+status: 4
+tags: []
+user_id: adarshkumar

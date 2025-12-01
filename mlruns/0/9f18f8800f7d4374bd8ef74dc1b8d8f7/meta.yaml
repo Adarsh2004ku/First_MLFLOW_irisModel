@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9f18f8800f7d4374bd8ef74dc1b8d8f7/artifacts
+end_time: 1764527206865
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f18f8800f7d4374bd8ef74dc1b8d8f7
+run_name: test
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764527206850
+status: 3
+tags: []
+user_id: adarshkumar

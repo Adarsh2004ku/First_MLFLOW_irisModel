@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/464677646898548114/00513cd0767242bba7026ef80e34fe7a/artifacts
+end_time: 1764570243063
+entry_point_name: ''
+experiment_id: '464677646898548114'
+lifecycle_stage: active
+run_id: 00513cd0767242bba7026ef80e34fe7a
+run_name: sassy-ant-814
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764570241314
+status: 3
+tags: []
+user_id: adarshkumar

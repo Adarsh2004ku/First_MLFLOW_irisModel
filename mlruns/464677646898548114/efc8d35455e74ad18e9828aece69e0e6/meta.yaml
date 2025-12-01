@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/464677646898548114/efc8d35455e74ad18e9828aece69e0e6/artifacts
+end_time: 1764529568678
+entry_point_name: ''
+experiment_id: '464677646898548114'
+lifecycle_stage: active
+run_id: efc8d35455e74ad18e9828aece69e0e6
+run_name: unruly-finch-814
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764529566580
+status: 3
+tags: []
+user_id: adarshkumar

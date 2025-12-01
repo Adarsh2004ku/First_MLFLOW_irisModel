@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/464677646898548114/1b0407563cd04d58826998ec7bd13000/artifacts
+end_time: 1764529489021
+entry_point_name: ''
+experiment_id: '464677646898548114'
+lifecycle_stage: active
+run_id: 1b0407563cd04d58826998ec7bd13000
+run_name: skittish-gnu-75
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764529488992
+status: 3
+tags: []
+user_id: adarshkumar
